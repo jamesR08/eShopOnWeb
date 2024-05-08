@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-James
   LOCATION: eastasia
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: Azure Pass - Sponsorship
+  SUBSCRIPTION-ID: c6590c33-ebaa-4383-a498-61c199377b47
   WEBAPP-NAME: eshoponweb-webapp-James
 
 
